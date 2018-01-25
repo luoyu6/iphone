@@ -1,0 +1,128 @@
+/*头部开始*/
+.head{width:100%;height:45px;background:#666666;margin:0 auto;}
+.head .h_nav{width:990px;margin:0 auto;line-height:45px;height:45px;}
+.head .h_nav ul li{float:left;padding-left:75px;}
+.head .h_nav ul li a{color:#fff;}
+.head .h_nav ul li a:hover{color:#2FA2DC;}
+.head .h_nav ul li:nth-child(1){padding-left:25px;}
+.head .h_nav ul li:nth-child(1) i{font-size:24px;padding:0;}
+.head .h_nav ul li:nth-child(9) i{font-size:24px;}
+/*头部结束*/
+/*躯干开始*/
+/*躯干头部开始*/
+.border{width:100%;padding:10px 0 10px 0;margin:0 auto;}
+.border .b_head{width:990px;height:40px;line-height:40px;margin:0 auto;}
+.border .b_head ul li{padding-left:30px;float:left;}
+.border .b_head ul li a{color:#ccc;font-size:0.1em;}
+.border .b_head ul li a:hover{text-decoration:underline;}
+.border .b_head ul li:nth-child(1){padding-left:25px;}
+.border .b_head ul li:nth-child(2){padding-left:370px;}
+.border .b_head ul li .h_icon{font-size:24px;}
+.border .b_head ul li a i{font-size:8px;}
+/*躯干头部结束*/
+/*躯干中间开始*/
+.border .b_body{width:990px;height:90px;text-align:center;margin:10px auto;}
+.border .b_body .b_dl{width:90px;height:70px;padding-top:20px;float:left;padding-left:90px;}
+.border .b_body .b_dl:nth-child(1){padding-left:0;}
+.border .b_body .b_dl a{font-size:14px;}
+.border .b_body .b_dl a i{font-size:50px;}
+/*躯干中间结束*/
+/*躯干展示开始*/
+.border .show{width:1348px;height:532px;margin:20px auto;}
+.border .show img{width:100%;}
+.border .show .s_p{width:500px;margin:0 auto;text-align:center;line-height:200px;}
+.border .show .s_p p{font-size:42px;}
+/*躯干展示结束*/
+/*躯干展示2*/
+.border .s_a input{background-color:#2FA2DC;width:80px;height:30px;border-radius:4px;outline:none;border:0;}
+.border .show2{width:1190px;height:542px;margin:0 auto;background:#fff;}
+.border .show2 .sh_left{width:709px;}
+.border .show2 .sl_d{width:470px;margin:160px auto;text-align:center;}
+.border .show2 .sl_d p{font-size:18px;padding:20px;color:#999;}
+.border .s_a input:hover{background:#E6EFFA;cursor:pointer;}
+.border .show2 .sh_right{width:481px;height:542px;background:url("../img/hd5.gif")-184px -3px no-repeat;z-index:4;}
+/*躯干展示2结束*/
+/*躯干展示3*/
+.border .show3{width:1190px;height:601px;margin:0 auto;}
+.border .show3 .sh3_left{width:421px;}
+.border .show3 .sh3_right{width:769px;}
+.border .show3 .sh3_right .sl3_d{width:470px;height:400px;margin:60px auto;text-align:center;}
+.border .show3 .sh3_right .sl3_d p{font-size:60px;padding:40px;}
+/*躯干展示3结束*/
+/*躯干展示4*/
+.border .s_a2 input{background-color:#2FA2DC;width:123px;height:30px;border-radius:4px;outline:none;border:0;}
+.border .s_a2 input:hover{background:#E6EFFA;cursor:pointer;}
+.border .show4{width:1190px;height:360px;margin:0 auto;}
+.border .show4 .sh4_head{width:900px;height:192px;margin:0 auto;text-align:center;}
+.border .show4 .sh4_head p{font-size:40px;padding:40px;}
+.border .show4 .sh4_foot{width:979px;height:168px;margin:0 auto;}
+/*躯干展示4结束*/
+/*躯干展示5*/
+.border .show5{width:1190px;height:691px;margin:140px auto;}
+.border .show5 .sh5_left{width:664px;text-align:center;}
+.border .show5 .sh5_left .sl5_d{width:274px;height:300px;margin:186px 270px;text-align:center;}
+.border .show5 .sh5_left .sl5_d p{font-size:40px;padding:40px;}
+.border .show5 .sh5_right{width:526px;margin:0 -140px;}
+/*躯干展示5结束*/
+/*分割栏开始*/
+.border .nini{width:1348px;height:75px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin:89px auto;}
+.border .nini .ni_s{height:75px;margin:0 auto;text-align:center;line-height:75px;}
+.border .nini .ni_s i{font-size:28px;padding-right:5px;color:#ccc;}
+.border .nini .ni_s a:hover{color:#2FA2DC;cursor:pointer;}
+/*分割栏结束*/
+/*配件开始*/
+.border .pei{width:300px;height:120px;margin:0 auto;text-align:center;padding-top:10px;}
+.border .pei a{font-size:40px;}
+.border .pei a:hover{cursor:pointer;}
+.border .pei p a{color:#2FA2DC;font-size:24px;}
+.border .pei p i{color:#2FA2DC;font-size:24px;}
+.border .pei p a:hover{color:#999;text-decoration:underline;}
+.border .pei p:nth-child(2){padding-top:20px;}
+/*配件展示区开始*/
+.border .p_pict{width:1280px;height:510px;margin:10px auto;}
+.border .p_pict div{width:630px;height:510px;position:relative;background:#F2F2F2;}
+.border .p_pict .pt_right{margin-left:20px;}
+.border .p_pict img{width:100%;}
+.border .p_pict .l_abox{width:600px;height:65px;text-align:center;position:absolute;top:430px;left:15px;}
+.border .p_pict .l_abox a{display:block;}
+.border .p_pict .l_abox a:nth-child(2){color:#ccc;}
+.border .p_pict .l_abox a:hover{color:#2FA2DC;cursor:pointer;}
+.border .p_pict .fasong{width:260px;height:28px;position:absolute;top:-28px;left:370px;display:none;}
+.border .p_pict div:hover .fasong{display:block;}
+/*配件展示区结束*/
+/*配件结束*/
+/*订购开始*/
+.border .pai{width:1340px;height:565px;margin:0 auto;position:relative;}
+.border .pai img{width:100%;}
+/*订购结束*/
+/*下载区开始*/
+.border .foot1{width:990px;height:250px;margin:0 auto;text-align:center;}
+.border .foot1 ul li{padding-top:10px;}
+.border .foot1 ul li:nth-child(1){padding-top:40px;}
+.border .foot1 ul li:nth-child(1) i{font-size:64px;color:#2FA2DC;}
+.border .foot1 ul li:nth-child(2){font-size:32px;padding-top:20px;}
+.border .foot1 ul li:nth-child(4) a{color:#2FA2DC;}
+.border .foot1 ul li:nth-child(4) a:hover{text-decoration:underline;}
+/*下载区结束*/
+/*底部开始*/
+.f_last{width:100%;background:#F2F2F2;}
+.last{width:1190px;height:365px;background:#F2F2F2;margin:0 auto;}
+/*底部头开始*/
+.last .l_head{height:60px;line-height:60px;font-size:8px;}
+.last .l_head p{padding-left:5px;}
+.last .l_head p a{padding-right:5px;}
+/*底部头结束*/
+/*底部中间开始*/
+.last .l_center{height:180px;}
+.last .l_center .lc_ul .u_li{float:left;height:180px;font-size:8px;padding-right:150px;}
+.last .l_center .lc_ul .u_li:nth-child(1){padding-left:5px;}
+.last .l_center .lc_ul .u_li .l_a{font-weight:600;}
+.last .l_center .lc_ul .u_li a:hover{text-decoration:underline;}
+/*底部中间结束*/
+.last .l_foot{height:125px;}
+.last .l_foot .f_one li{font-size:2px;padding-left:5px;color:#ccc;}
+.last .l_foot .f_one .fo_li{padding-left:10px;}
+.last .l_foot .f_one .f_three .th_li{padding-left:990px;}
+.last .l_foot .f_one .f_three .th_li i{padding-left:5px;color:#FE6A66;}
+.last .l_foot a:hover{text-decoration:underline;}
+/*底部结束*/
